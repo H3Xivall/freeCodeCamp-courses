@@ -1,0 +1,24 @@
+{
+  "name": "freecodecamp-courses",
+  "version": "1.0.0",
+  "description": "Coursework for freeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h3xivall/freecodecamp-courses.git"
+  },
+  "keywords": [
+    "test",
+    "do",
+    "whatever"
+  ],
+  "author": "Ryan Hanzel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/h3xivall/freecodecamp-courses/issues"
+  },
+  "homepage": "https://github.com/h3xivall/freecodecamp-courses#readme"
+}
